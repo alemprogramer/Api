@@ -1,3 +1,39 @@
+Skip to content
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@alemprogramer 
+alemprogramer
+/
+Es6-project
+1
+00
+Code
+Issues
+Pull requests
+1
+Actions
+Projects
+Wiki
+Security
+1
+Insights
+Settings
+Es6-project/.gitignore
+@alemprogramer
+alemprogramer Add webpack server
+Latest commit 5b09056 on Jun 15
+ History
+ 1 contributor
+We found a potential security vulnerability in one of your dependencies.
+Only the owner of this repository can see this message.
+
+108 lines (79 sloc)  1.62 KB
+ 
 # Logs
 logs
 *.log
@@ -102,3 +138,19 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Live server port file
+.vscode
+.settings.json
+© 2020 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
